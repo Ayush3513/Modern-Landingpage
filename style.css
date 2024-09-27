@@ -1,6 +1,6 @@
 @font-face {
     font-family: kajiro;
-    src: url(./kajiro/Kajiro/Kajiro\ Bold.ttf);
+    src: url(./Kajiro.ttf);
 }
 @font-face {
     font-family: gilroy;
@@ -64,6 +64,7 @@ html,body{
     letter-spacing: 0.1vw;
     margin-top: 2vw;
     pointer-events: all;
+    font-weight: 100;
 }
 .navleft img{
     height: 4vw;
